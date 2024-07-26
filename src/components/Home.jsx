@@ -91,6 +91,78 @@ const Home = () => {
                                         </div>
 
                                     </div>
+                                    <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+
+                                        <div class="card mb-3" >
+                                            <div class="row g-0">
+                                                <div class="col-md-4">
+                                                    <img src="https://worldnews.whatfinger.com/wp-content/uploads/2024/07/breaking-joe-biden-pulls-out-of.jpg" class="img-fluid rounded-start" alt="..." />
+                                                </div>
+                                                <div class="col-md-8">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">Card title</h5>
+                                                        <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut, at. Totam quae laborum atque a, quo quos velit quam iste consectetur repellat repudiandae vero quisquam ratione numquam quaerat eveniet voluptatem?.</p>
+                                                        <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+
+                                        <div class="card mb-3" >
+                                            <div class="row g-0">
+                                                <div class="col-md-4">
+                                                    <img src="https://worldnews.whatfinger.com/wp-content/uploads/2024/07/breaking-joe-biden-pulls-out-of.jpg" class="img-fluid rounded-start" alt="..." />
+                                                </div>
+                                                <div class="col-md-8">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">Card title</h5>
+                                                        <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut, at. Totam quae laborum atque a, quo quos velit quam iste consectetur repellat repudiandae vero quisquam ratione numquam quaerat eveniet voluptatem?.</p>
+                                                        <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+
+                                        <div class="card mb-3" >
+                                            <div class="row g-0">
+                                                <div class="col-md-4">
+                                                    <img src="https://worldnews.whatfinger.com/wp-content/uploads/2024/07/breaking-joe-biden-pulls-out-of.jpg" class="img-fluid rounded-start" alt="..." />
+                                                </div>
+                                                <div class="col-md-8">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">Card title</h5>
+                                                        <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut, at. Totam quae laborum atque a, quo quos velit quam iste consectetur repellat repudiandae vero quisquam ratione numquam quaerat eveniet voluptatem?.</p>
+                                                        <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                    <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
+
+                                        <div class="card mb-3" >
+                                            <div class="row g-0">
+                                                <div class="col-md-4">
+                                                    <img src="https://worldnews.whatfinger.com/wp-content/uploads/2024/07/breaking-joe-biden-pulls-out-of.jpg" class="img-fluid rounded-start" alt="..." />
+                                                </div>
+                                                <div class="col-md-8">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title">Card title</h5>
+                                                        <p class="card-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut, at. Totam quae laborum atque a, quo quos velit quam iste consectetur repellat repudiandae vero quisquam ratione numquam quaerat eveniet voluptatem?.</p>
+                                                        <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
 
                                 </div>
 
